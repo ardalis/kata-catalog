@@ -1,10 +1,10 @@
-kata-catalog
+Coding Kata Catalog
 ============
 
-My list of code katas
+A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
-- [Greed](katas/greed.md)
-- [Prime Factors](katas/Prime%20Factors.md)
-- [String Calculator](katas/String%20Calculator.md)
+- Greed
+- Prime Factors
+- String Calculator
 
 
