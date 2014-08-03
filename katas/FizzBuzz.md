@@ -12,29 +12,22 @@ FizzBuzz is a simple number game in which you count, but replace certain numbers
 4. Instead of numbers divisible by 3 and 5, the method should output "FizzBuzz".
 
 ## Sample Output ##
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-16
-
-## Example Scores ##
-
-- [1,1,1,5,1] = 1150 points
-- [2,3,4,6,2] = 0 points
-- [3,4,5,3,3] = 350 points
-
+    1
+    2
+    Fizz
+    4
+    Buzz
+    Fizz
+    7
+    8
+    Fizz
+    Buzz
+    11
+    Fizz
+    13
+    14
+    FizzBuzz
+    16
 
 ## Extra Credit ##
 - Instead of numbers with a three in them, print "Fizz".
