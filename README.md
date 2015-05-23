@@ -1,5 +1,7 @@
 Coding Kata Catalog
-============
+===================
+
+Pull requests accepted - add your favorite kata to the catalog.
 
 A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
