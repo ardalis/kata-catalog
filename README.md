@@ -6,8 +6,9 @@ Pull requests accepted - add your favorite kata to the catalog.
 A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
 - Bowling Game
+- File Logger (mocking kata)
 - FizzBuzz
-- Gilded Rose
+- Gilded Rose (refactoring kata)
 - Greed
 - Potter
 - Prime Factors
