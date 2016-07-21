@@ -13,6 +13,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - Potter
 - Prime Factors
 - Red Pencil Sale
+- RPG Combat
 - String Calculator
 - Tennis Scoring
 
