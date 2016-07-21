@@ -5,7 +5,7 @@ Pull requests accepted - add your favorite kata to the catalog.
 
 A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
-- Bowling Game
+- [Bowling Game](katas/Bowling Game.md) [pdf](katas/Bowling Game.pdf)
 - File Logger (mocking kata)
 - FizzBuzz
 - Gilded Rose (refactoring kata)
