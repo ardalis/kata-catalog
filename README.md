@@ -17,7 +17,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [String Calculator](katas/String Calculator.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/String%20Calculator.pdf))
 - [Tennis Scoring](katas/Tennis Scoring.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Tennis%20Scoring.pdf))
 - [Zombie Survivors](katas/Zombie Survivors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Zombie%20Survivors.pdf))
-- 
+
 # PDFs #
 
 For printing it is recommended to use the PDF versions. PDFs created courtesy of (http://www.markdowntopdf.com/).
