@@ -13,10 +13,11 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [Potter](katas/Potter.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Potter.pdf))
 - [Prime Factors](katas/Prime Factors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Prime%20Factors.pdf))
 - [Red Pencil Sale](katas/Red Pencil Sale.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Red%20Pencil%20Sale.pdf))
-- [RPG Combat](katas/RPG Combat.md)
+- [RPG Combat](katas/RPG Combat.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/RPG%20Combat.pdf))
 - [String Calculator](katas/String Calculator.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/String%20Calculator.pdf))
 - [Tennis Scoring](katas/Tennis Scoring.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Tennis%20Scoring.pdf))
-
+- [Zombie Survivors](katas/Zombie Survivors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Zombie%20Survivors.pdf))
+- 
 # PDFs #
 
 For printing it is recommended to use the PDF versions. PDFs created courtesy of (http://www.markdowntopdf.com/).
