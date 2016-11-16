@@ -28,7 +28,7 @@ This kata is designed to help you learn test-first coding and refactoring. To th
 	2. Example: "2,-4,3,-5" throws "Negatives not allowed: -4,-5".
 6. Numbers greater than 1000 should be ignored.
 	1. Example: "1001,2" returns 2.
-7. Delimiters can be any length, using this syntax: "//[|||]1|||2|||3" returns 6.
+7. Delimiters can be any length, using this syntax: "//[|||]\n1|||2|||3" returns 6.
 8. Allow multiple delimiters, using this syntax: "//[|][%]\n1|2%3" returns 6.
 9. Handle multiple delimiters of any length.
 
