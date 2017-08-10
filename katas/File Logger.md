@@ -20,7 +20,7 @@ This kata is designed to help develop skill with using mock objects appropriatel
 
 1. The IT manager doesn't want to have to open multiple files on Mondays. Any time logging is occurring on a Saturday or Sunday, have it log to a file called "weekend.txt". If it already exists, it can just append to it.
 
-1. Actually, the manager just gave us new requirements. The first time you log to a file on a new weekend, make sure you start with a fresh "weekend.txt" file.
+1. Actually, the manager just gave us new requirements. The first time you log to a file on a new weekend, make sure you start with a fresh "weekend.txt" file. Rename the old one based on the date of the Saturday of that weekend, e.g. weekend-YYYYMMDD.txt.
 
 # Resources #
 
