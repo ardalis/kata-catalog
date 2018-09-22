@@ -6,7 +6,7 @@ Source: [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kat
 
 Greed is a press-your-luck dice rolling game. In the game, the player rolls the dice and tries to earn as many points as possible from the result. For the purposes of this kata, we will just be scoring a **single** roll of **five** dice (but see Extra Credit below).
 
-Write a scoring method that calculates the best score based on a given roll using the following set of scoring rules. Each die can only be scored once (so single die scores cannot be combined with triple die scores for the same individual die, but for instance four 5s could count as 1 Triple (500) and 1 Single (50) for a total of 550.
+Write a scoring method that calculates the best score based on a given roll using the following set of scoring rules. Each dice can only be scored once (so single die scores cannot be combined with triple die scores for the same individual die, but for instance four 5s could count as 1 Triple (500) and 1 Single (50) for a total of 550.
 
 - A single one (100 points)
 - A single five (50 points)
