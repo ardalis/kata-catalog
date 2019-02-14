@@ -5,6 +5,7 @@ Pull requests accepted - add your favorite kata to the catalog.
 
 A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
+- [Banker Sloth](katas/BankerSloth.pdf) ([PDF](katas/BankerSloth.pdf))
 - [Bowling Game](katas/Bowling%20Game.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Bowling%20Game.pdf))
 - [File Logger (mocking kata)](katas/File%20Logger.md)
 - [FizzBuzz](katas/FizzBuzz.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/FizzBuzz.pdf))
