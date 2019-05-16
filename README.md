@@ -10,6 +10,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [FizzBuzz](katas/FizzBuzz.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/FizzBuzz.pdf))
 - [Gilded Rose (refactoring kata)](katas/Gilded%20Rose.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Gilded%20Rose.pdf))
 - [Greed](katas/Greed.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Greed.pdf))
+- [ISBN](kata/ISBN.md)
 - [Monty Hall](katas/Monty%20Hall.md)
 - [Potter](katas/Potter.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Potter.pdf))
 - [Prime Factors](katas/Prime%20Factors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Prime%20Factors.pdf))
@@ -19,6 +20,6 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [Tennis Scoring](katas/Tennis%20Scoring.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Tennis%20Scoring.pdf))
 - [Zombie Survivors](katas/Zombie%20Survivors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Zombie%20Survivors.pdf))
 
-# PDFs #
+## PDFs
 
 For printing it is recommended to use the PDF versions. PDFs created courtesy of (http://www.markdowntopdf.com/).
