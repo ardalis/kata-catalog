@@ -1,12 +1,13 @@
 File Logger Kata
 ================
+
 Source: [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
 
-# Background #
+# Background
 
 This kata is designed to help develop skill with using mock objects appropriately. The initial steps can be completed using direct infrastructure code, but later steps become increasingly difficult to test without the ability to mock out certain dependencies.
 
-# Instructions #
+# Instructions
 
 1. Write a class 'FileLogger' with one method, ``Log(string message)``.
 
@@ -22,7 +23,6 @@ This kata is designed to help develop skill with using mock objects appropriatel
 
 1. Actually, the manager just gave us new requirements. The first time you log to a file on a new weekend, make sure you start with a fresh "weekend.txt" file. Rename the old one based on the date of the Saturday of that weekend, e.g. weekend-YYYYMMDD.txt.
 
-# Resources #
+# Resources
 
 - For .NET, [moq](https://github.com/moq/moq) or [via nuget](https://www.nuget.org/packages/Moq)
-
