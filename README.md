@@ -10,7 +10,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [FizzBuzz](katas/FizzBuzz.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/FizzBuzz.pdf))
 - [Gilded Rose (refactoring kata)](katas/Gilded%20Rose.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Gilded%20Rose.pdf))
 - [Greed](katas/Greed.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Greed.pdf))
-- [ISBN](kata/ISBN.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/ISBN.pdf))
+- [ISBN](katas/ISBN.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/ISBN.pdf))
 - [Monty Hall](katas/Monty%20Hall.md)
 - [Potter](katas/Potter.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Potter.pdf))
 - [Prime Factors](katas/Prime%20Factors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Prime%20Factors.pdf))
