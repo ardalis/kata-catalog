@@ -16,7 +16,7 @@ This kata is designed to help you learn test-first coding and refactoring. To th
 	5. Add returns the sum of the integers provided in the string *numbers*.
 	6. Remember to refactor after each test.
 2. Allow the Add method to handle an unknown number of numbers (in the string).
-3. Allow the Add method to handle new lines between numbers (instead of commas):
+3. Allow the Add method to handle new lines between numbers (as well as commas):
 	1. Example: "1\n2,3" returns 6.
 	2. Example: "1,\n" is invalid, but no need to test for it. For this kata we are only concerned with testing correct inputs.
 4. Allow the Add method to handle a different delimiter:
