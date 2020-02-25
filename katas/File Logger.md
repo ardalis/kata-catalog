@@ -23,6 +23,9 @@ This kata is designed to help develop skill with using mock objects appropriatel
 
 1. Actually, the manager just gave us new requirements. The first time you log to a file on a new weekend, make sure you start with a fresh "weekend.txt" file. Rename the old one based on the date of the Saturday of that weekend, e.g. weekend-YYYYMMDD.txt.
 
+## Example of final weekend behavior
+
+Let's say the month starts on Saturday the 1st (e.g. 1 Feb 2020) and currently there are no log files present. Logging on Saturday the 1st goes to a file `weekend.txt`. Logging on Sunday the 2nd continues to go to `weekend.txt`. Throughout the week, new files are created for each date `log20200203.txt`, `log20200204.txt`, etc. Then Saturday 8 Feb 2020 rolls around and the last requirements comes into play. The existing `weekend.txt` file has metadata indicating it was created or last modified on Feb 1st/2nd (respectively). Thus, the logger renames the file to `weekend-20200201.txt` corresponding to the Saturday of that weekend log file. It then creates a new `weekend.txt` which is used for the rest of the 8th. And again on the 9th. That file will be renamed on 15 Feb to `weekend-20200208.txt`.
 # Resources
 
 - For .NET, [moq](https://github.com/moq/moq) or [via nuget](https://www.nuget.org/packages/Moq)
