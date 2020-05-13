@@ -20,6 +20,11 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [Tennis Scoring](katas/Tennis%20Scoring.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Tennis%20Scoring.pdf))
 - [Zombie Survivors](katas/Zombie%20Survivors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Zombie%20Survivors.pdf))
 
+## Walkthroughs
+
+- [Refactoring Fundamentals](https://www.pluralsight.com/courses/refactoring-fundamentals) Gilded Rose
+- [Design Patterns Library - Rules Pattern](https://www.pluralsight.com/courses/patterns-library) Greed
+
 ## PDFs
 
 For printing it is recommended to use the PDF versions. PDFs created courtesy of (http://www.markdowntopdf.com/).
