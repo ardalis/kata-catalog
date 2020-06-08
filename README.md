@@ -6,6 +6,7 @@ Pull requests accepted - add your favorite kata to the catalog.
 A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
 - [Bowling Game](katas/Bowling%20Game.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Bowling%20Game.pdf))
+- [Builder in Unit Tests (C#)](https://github.com/ardalis/BuilderTestSample)
 - [File Logger (mocking kata)](katas/File%20Logger.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/File%20Logger.pdf))
 - [FizzBuzz](katas/FizzBuzz.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/FizzBuzz.pdf))
 - [Gilded Rose (refactoring kata)](katas/Gilded%20Rose.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Gilded%20Rose.pdf))
