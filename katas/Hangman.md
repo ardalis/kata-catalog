@@ -41,5 +41,5 @@ If you build a UI for the game, it should have the following features:
 
 # References
 
-- Thanks [happybits](https://twitter.com/happybits) for the idea for this kata!
+- Thanks [happybits](https://github.com/happy-bits) for the idea for this kata!
 - [Example Approval Tests](../src/hangman/ApprovalTests.cs) Two approval tests that can be used to validate your implementation of the game engine.
