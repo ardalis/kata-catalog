@@ -13,7 +13,7 @@ This kata is designed to help with test-first coding and refactoring and design.
 
 1. Create a class `Hangman` to represent the game.
    1. When created, the class should accept a secret word and store it in ALLCAPS.
-   2. When created, the class should store the number of incorrect guesses this game instance will allow.
+   2. When created, the class should store the number of incorrect guesses that will result in losing the game.
    3. When created, the class should expose a property indicating that the game is in progress.
 2. Add a Guess method to the class which returns a result.
    1. A guess should accept a letter.
@@ -23,7 +23,7 @@ This kata is designed to help with test-first coding and refactoring and design.
    5. If the letter was previously guessed (correctly or not), return a duplicate guess result.
 3. After each guess, calculate the new game state.
    1. If all letters have been guessed, the game is won.
-   2. If total incorrect guess count exceeds the number allowed when the game was created, the game is lost.
+   2. If total incorrect guess count equals the number set when the game was created, the game is lost.
    3. Otherwise, the game is in progress.
 
 You're free to design the class(es) however you want. In the References below you'll find two approval tests you can use that rely on your design outputting the results and game state as strings.
@@ -34,7 +34,7 @@ If you build a UI for the game, it should have the following features:
 
 - Display the masked secret word at game start and after each guess. Display correctly guessed letters in the proper position in the word.
 - Display a list of incorrectly guessed letters.
-- Display how many incorrect guesses the player has left.
+- Display how many guesses the player has left. This should be positive unless the game was just lost.
 - If the game is won, display a message announcing this.
 - If the game is lost, display a message announcing this.
 - Accept a new guess from the player while the game is in progress.
