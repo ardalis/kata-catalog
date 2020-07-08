@@ -3,13 +3,13 @@ Hangman Kata
 
 Source: [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
 
-# Background
+## Background
 
 Hangman is a well-known word guessing game in which a secret word is shown as hidden letters, and the player guesses letters. Correct guesses unmask letters in their appropriate position of the secret word. Incorrect guesses are counted against the player. If the number of incorrect guesses exceeds the limit before the word is correctly revealed, the player loses. If they can reveal the entire word before running out of incorrect guesses, they win!
 
 This kata is designed to help with test-first coding and refactoring and design. You can stick to just writing the library code, or produce a working version of the game using a UI of your choice (e.g. console, WinForms, WPF, web, etc.).
 
-# Instructions
+## Instructions
 
 1. Create a class `Hangman` to represent the game.
    1. When created, the class should accept a secret word and store it in ALLCAPS.
@@ -28,7 +28,7 @@ This kata is designed to help with test-first coding and refactoring and design.
 
 You're free to design the class(es) however you want. In the References below you'll find two approval tests you can use that rely on your design outputting the results and game state as strings.
 
-# User Interface / Game Client
+## User Interface / Game Client
 
 If you build a UI for the game, it should have the following features:
 
@@ -39,7 +39,7 @@ If you build a UI for the game, it should have the following features:
 - If the game is lost, display a message announcing this.
 - Accept a new guess from the player while the game is in progress.
 
-# References
+## References
 
 - Thanks [happybits](https://github.com/happy-bits) for the idea for this kata!
 - [Example Approval Tests](../src/hangman/ApprovalTests.cs) Two approval tests that can be used to validate your implementation of the game engine.
