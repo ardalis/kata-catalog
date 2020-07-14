@@ -13,9 +13,11 @@ This kata is designed to help develop skill with using mock objects appropriatel
 
 1. When this method is called, it should append the message to the end of a file, "log.txt", located in the same folder as the running application (or tests).
 
+1. Messages should default to having a prefix of "YYYY-MM-DD HH:MM:SS " in front of the message. For example, `Log("test")` would yield "2020-07-14 10:25:23 test". Time can be in local timezone and should use 24-hour clock.
+
 1. If the file doesn't exist, create it. If it does exist, use it and append to it.
 
-1. Now update the method so that it writes to a file called logYYYYMMDD.txt, where YYYYMMDD corresponds to the current date.
+1. Now update the method so that it writes to a file called logYYYYMMDD.txt, where YYYYMMDD corresponds to the current date. **Note:** It's not unusual for the logger instance to run for a long period of time, and the log messages should go into the appropriate file based on when they are logged, not when the logger was created.
 
 1. Verify that a new file is created if it doesn't exist on each new day.
 
