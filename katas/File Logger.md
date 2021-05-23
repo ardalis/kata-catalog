@@ -5,7 +5,9 @@ Source: [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kat
 
 # Background
 
-This kata is designed to help develop skill with using mock objects appropriately. The initial steps can be completed using direct infrastructure code (that is, actually creating files and getting times from the system clock directly), but later steps become increasingly difficult to test without the ability to mock out certain dependencies.  Try not to read ahead or guess what the next requirement might be - just complete one numbered step at a time.
+This kata is designed to help develop skill with using mock objects appropriately. The initial steps can be completed using direct infrastructure code (that is, actually creating files and getting times from the system clock directly), but later steps become increasingly difficult to test without the ability to mock out certain dependencies.
+
+Try not to read ahead or guess what the next requirement might be - just complete one numbered step at a time.
 
 # Instructions
 
