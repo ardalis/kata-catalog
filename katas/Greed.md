@@ -1,8 +1,9 @@
 Greed Kata
 ============
+
 Source: [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
 
-# Instructions #
+## Instructions
 
 Greed is a press-your-luck dice rolling game. In the game, the player rolls the dice and tries to earn as many points as possible from the result. For the purposes of this kata, we will just be scoring a **single** roll of **five** dice (but see Extra Credit below).
 
@@ -17,14 +18,14 @@ Write a scoring method that calculates the best score based on a given roll usin
 - Triple fives [5,5,5] (500 points)
 - Triple sixes [6,6,6] (600 points)
 
-## Example Scores ##
+## Example Scores
 
 - [1,1,1,5,1] = 1150 points
 - [2,3,4,6,2] = 0 points
 - [3,4,5,3,3] = 350 points
 
+## Extra Credit
 
-## Extra Credit ##
 Modify your scoring method to support the following rules:
 
 - The player may throw 1 to 6 dice at a time.
@@ -34,6 +35,7 @@ Modify your scoring method to support the following rules:
 - Three Pairs [2,2,3,3,4,4] (800 points)
 - Straight [1,2,3,4,5,6] (1200 points)
 
-# Resources #
+## Resources
+
 - [Walkthrough by Steve Smith (@ardalis)](http://pluralsight.com/training/courses/TableOfContents?courseName=patterns-library&highlight=steve-smith_patterns-rules*11#patterns-rules)
 - [Greed Dice Game (aka Farkle) on Wikipedia.org](http://en.wikipedia.org/wiki/Greed_(dice_game))
