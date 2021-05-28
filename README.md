@@ -1,5 +1,5 @@
-Coding Kata Catalog
-===================
+Coding Kata Catalog (a "katalog" if you will)
+=============================================
 
 Pull requests accepted - add your favorite kata to the catalog.
 
