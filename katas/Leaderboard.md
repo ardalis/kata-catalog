@@ -42,3 +42,7 @@ How do you represent the result of the rank calculation?
 How easily would your design work in different user interfaces (console, web, mobile, etc.)?
 
 How difficult was it to configure your algorithm to support lowest-to-highest scoring? How much duplicate code, if any, is there in your final solution?
+
+## Flexibility
+
+How would you modify your solution to work for any given data type? Instead of players and games what if you're calculating book sales rankings? Can you design your solution such that its operations are configurable, or leverage a design pattern like Adapter to provide a way for it to work with arbitrary existing data structures?
