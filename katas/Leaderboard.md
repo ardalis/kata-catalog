@@ -21,13 +21,15 @@ When duplicate scores exist, which is not uncommon, a tie occurs. When players a
 | Chrissy     | 8     |
 | Doris       | 7     |
 
-The player ranks in this case would be: 1,2,2,4.
+The player ranks, in this case, would be: 1,2,2,4.
 
-Write tests to ensure your leaderboard service works correctly given duplicate score values.
+Write tests to ensure your leader board service works correctly given duplicate score values.
 
 ## Extra Credit
 
-Sometimes lower scores are better (such as in golf). Configure your service so that it will work correctly when given a set of scores that should be ranked based on lowest-to-highest score. Test that your service works correctly in this configuration.
+Sometimes lower scores are better (such as in golf or race completion times). Configure your service so that it will work correctly so that, when given a set of scores, they are ranked based on lowest-to-highest score. Test that your service works correctly in this configuration.
+
+Ensure your service works with arbitrary types of score data, provided it is comparable (`IComparable<T>` interface in .NET, or similar in other languages).
 
 ## Design Review
 
