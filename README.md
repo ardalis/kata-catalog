@@ -15,6 +15,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [Greed](katas/Greed.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Greed.pdf))
 - [Hangman](katas/Hangman.md)
 - [ISBN](katas/ISBN.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/ISBN.pdf))
+- [Leader board](katas/Leaderboard.md)
 - [Monty Hall](katas/Monty%20Hall.md)
 - [Potter](katas/Potter.md) ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Potter.pdf))
 - [Prime Factors](katas/Prime%20Factors.md)  ([PDF](https://github.com/ardalis/kata-catalog/raw/master/katas/Prime%20Factors.pdf))

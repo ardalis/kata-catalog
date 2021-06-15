@@ -10,7 +10,7 @@ Use this template to add your own code and/or video walkthrough, in date order, 
 
 ## C#
 
-- 7 Jul 2020 - [FizzBuzz Implementation](#) - [YouTube Walkthrough](#)
+- 14 June 2021 - [Leader board kata by @snowfrog]([#](https://youtu.be/BGtF_QZ-tBw)) - [YouTube Walkthrough]([#](https://youtu.be/BGtF_QZ-tBw))
 
 ## JavaScript
 
