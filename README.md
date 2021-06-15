@@ -3,7 +3,7 @@ Coding Kata Catalog (a "katalog" if you will)
 
 Pull requests accepted - add your favorite kata to the catalog.
 
-The [devBetter](https://devbetter.com) group coaching program and various user groups use these katas frequently to help practice good coding habits and techniques.
+The [devBetter](https://devbetter.com) group coaching program and various user groups use these katas frequently to help practice good coding habits and techniques. If you're not sure where to start, [read this getting started guide](GettingStarted.md).
 
 A list of code kata instructions (in the /katas folder) compiled by [@ardalis](http://twitter.com/ardalis):
 
