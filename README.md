@@ -37,3 +37,7 @@ For printing it is recommended to use the PDF versions. PDFs created courtesy of
 ## Community Implementations
 
 [View others' implementations of these katas and add your own here](IMPLEMENTATIONS.md).
+
+## More Awesome Katas
+
+[Awesome Katas on GitHub](https://github.com/gamontal/awesome-katas#awesome-katas-)
