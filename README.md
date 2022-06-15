@@ -9,6 +9,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 
 - [Bowling Game](katas/Bowling%20Game.md) ([PDF](katas/Bowling%20Game.pdf))
 - [Builder in Unit Tests (C#)](https://github.com/ardalis/BuilderTestSample)
+- [Collection Default Item](katas/CollectionDefaultItem.md)
 - [File Logger (mocking kata)](katas/File%20Logger.md) ([PDF](katas/File%20Logger.pdf))
 - [FizzBuzz](katas/FizzBuzz.md) ([PDF](katas/FizzBuzz.pdf))
 - [Gilded Rose (refactoring kata)](katas/Gilded%20Rose.md)  ([PDF](katas/Gilded%20Rose.pdf))
@@ -22,6 +23,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [Red Pencil Sale](katas/Red%20Pencil%20Sale.md) ([PDF](katas/Red%20Pencil%20Sale.pdf))
 - [RPG Combat](katas/RPG%20Combat.md)  ([PDF](katas/RPG%20Combat.pdf))
 - [String Calculator](<katas/String%20Calculator.md>) ([PDF](katas/String%20Calculator.pdf))
+- [Supermarket Checkout](<katas/../katas/Supermarket%20Checkout.md>)
 - [Tennis Scoring](katas/Tennis%20Scoring.md) ([PDF](katas/Tennis%20Scoring.pdf))
 - [Zombie Survivors](katas/Zombie%20Survivors.md)  ([PDF](katas/Zombie%20Survivors.pdf))
 
