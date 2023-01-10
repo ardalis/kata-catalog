@@ -25,6 +25,7 @@ A list of code kata instructions (in the /katas folder) compiled by [@ardalis](h
 - [String Calculator](<katas/String%20Calculator.md>) ([PDF](katas/String%20Calculator.pdf))
 - [Supermarket Checkout](<katas/../katas/Supermarket%20Checkout.md>)
 - [Tennis Scoring](katas/Tennis%20Scoring.md) ([PDF](katas/Tennis%20Scoring.pdf))
+- [Vending Machine](katas/VendingMachine.md) ([PDF](katas/VendingMachine.pdf))
 - [Zombie Survivors](katas/Zombie%20Survivors.md)  ([PDF](katas/Zombie%20Survivors.pdf))
 
 ## Walkthroughs
