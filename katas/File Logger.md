@@ -35,4 +35,4 @@ Let's say the month starts on Saturday the 1st (e.g. 1 Feb 2020) and currently t
 
 # Resources
 
-- For .NET, [moq](https://github.com/moq/moq) or [via nuget](https://www.nuget.org/packages/Moq)
+- For .NET, [NSubstitute](https://nsubstitute.github.io/) or [via nuget](https://www.nuget.org/packages/NSubstitute)
