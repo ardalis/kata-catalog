@@ -43,4 +43,5 @@ For printing it is recommended to use the PDF versions. PDFs created courtesy of
 
 ## More Awesome Katas
 
-[Awesome Katas on GitHub](https://github.com/gamontal/awesome-katas#awesome-katas-)
+- [The Legend of Zelda Combat Kata from Doctor Blue](https://github.com/DoctorBlue/Zelda-Kata)
+- [Awesome Katas on GitHub](https://github.com/gamontal/awesome-katas#awesome-katas-)
